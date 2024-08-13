@@ -183,6 +183,7 @@ Nós utilizamos [SemVer](http://semver.org/) para controle de versão. Atualment
 ## ✒️ Autores
 
 * **Fernando Franco Valle** - *Desenvolvedor Principal* - [LinkedIn](https://www.linkedin.com/in/fernandofrancovalle/) | [GitHub](https://github.com/feh-franc0)
+* **Luís Felipe Silva** - *Desenvolvedor Principal* - [LinkedIn](https://www.linkedin.com/in/luisfelipeprs/) | [GitHub](https://github.com/luisfelipeprs)
 
 ## 📄 Licença
 
