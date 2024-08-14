@@ -207,11 +207,6 @@ Este projeto está em processo de validação e não é permitida a venda, comé
   </div>
 </details>
 
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Agradeça publicamente 🫂;
-
 ---
 
 ⌨️ Por: [Fernando Franco Valle](https://www.linkedin.com/in/fernandofrancovalle/) 😊
