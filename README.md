@@ -25,8 +25,8 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/feh-franc0/gscare-backend-aspnetcore
-   cd GSCare
+   git clone https://github.com/GSCare/gscare-backend.git
+   cd gscare-backend
    ```
 
 2. **Restaure as dependências:**
